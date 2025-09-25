@@ -1,0 +1,4 @@
+../Drivers/BSP/STM32469I-Discovery/stm32469i_discovery_ts.c:145:9:BSP_TS_Init	24	static
+../Drivers/BSP/STM32469I-Discovery/stm32469i_discovery_ts.c:207:9:BSP_TS_ITConfig	32	static
+../Drivers/BSP/STM32469I-Discovery/stm32469i_discovery_ts.c:241:9:BSP_TS_GetState	48	static
+../Drivers/BSP/STM32469I-Discovery/stm32469i_discovery_ts.c:427:13:BSP_TS_INT_MspInit	32	static

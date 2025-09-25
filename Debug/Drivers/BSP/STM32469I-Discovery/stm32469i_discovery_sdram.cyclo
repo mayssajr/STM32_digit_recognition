@@ -1,0 +1,11 @@
+../Drivers/BSP/STM32469I-Discovery/stm32469i_discovery_sdram.c:131:9:BSP_SDRAM_Init	2
+../Drivers/BSP/STM32469I-Discovery/stm32469i_discovery_sdram.c:180:9:BSP_SDRAM_DeInit	2
+../Drivers/BSP/STM32469I-Discovery/stm32469i_discovery_sdram.c:203:6:BSP_SDRAM_Initialization_sequence	1
+../Drivers/BSP/STM32469I-Discovery/stm32469i_discovery_sdram.c:265:9:BSP_SDRAM_ReadData	2
+../Drivers/BSP/STM32469I-Discovery/stm32469i_discovery_sdram.c:284:9:BSP_SDRAM_ReadData_DMA	2
+../Drivers/BSP/STM32469I-Discovery/stm32469i_discovery_sdram.c:303:9:BSP_SDRAM_WriteData	2
+../Drivers/BSP/STM32469I-Discovery/stm32469i_discovery_sdram.c:322:9:BSP_SDRAM_WriteData_DMA	2
+../Drivers/BSP/STM32469I-Discovery/stm32469i_discovery_sdram.c:339:9:BSP_SDRAM_Sendcmd	2
+../Drivers/BSP/STM32469I-Discovery/stm32469i_discovery_sdram.c:354:6:BSP_SDRAM_DMA_IRQHandler	1
+../Drivers/BSP/STM32469I-Discovery/stm32469i_discovery_sdram.c:365:13:BSP_SDRAM_MspInit	2
+../Drivers/BSP/STM32469I-Discovery/stm32469i_discovery_sdram.c:472:13:BSP_SDRAM_MspDeInit	2

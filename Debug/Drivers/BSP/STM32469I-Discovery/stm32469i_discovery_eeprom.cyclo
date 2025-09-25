@@ -1,0 +1,7 @@
+../Drivers/BSP/STM32469I-Discovery/stm32469i_discovery_eeprom.c:137:10:BSP_EEPROM_Init	3
+../Drivers/BSP/STM32469I-Discovery/stm32469i_discovery_eeprom.c:160:9:BSP_EEPROM_DeInit	1
+../Drivers/BSP/STM32469I-Discovery/stm32469i_discovery_eeprom.c:181:10:BSP_EEPROM_ReadBuffer	2
+../Drivers/BSP/STM32469I-Discovery/stm32469i_discovery_eeprom.c:228:10:BSP_EEPROM_WritePage	3
+../Drivers/BSP/STM32469I-Discovery/stm32469i_discovery_eeprom.c:263:10:BSP_EEPROM_WriteBuffer	19
+../Drivers/BSP/STM32469I-Discovery/stm32469i_discovery_eeprom.c:420:10:BSP_EEPROM_WaitEepromStandbyState	2
+../Drivers/BSP/STM32469I-Discovery/stm32469i_discovery_eeprom.c:435:13:BSP_EEPROM_TIMEOUT_UserCallback	1
